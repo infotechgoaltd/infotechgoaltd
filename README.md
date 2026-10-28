@@ -4,7 +4,7 @@
   <p><strong>Catalyzing Digital Transformation & E-Governance across Goa</strong></p>
 
   <p>
-    <a href="https://www.infotech.goa.gov.in/"><strong>Official Website</strong></a> •
+    <a href="https://infotech.goa.gov.in/"><strong>Official Website</strong></a> •
     <a href="mailto:infotechgoaltd@gmail.com"><strong>Contact Support</strong></a>
   </p>
 
